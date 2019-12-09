@@ -1,0 +1,6 @@
+{
+	"db":"bmp",
+    "split_number": 7,
+    "block_size": 40,
+    "tolerance": 1
+}
